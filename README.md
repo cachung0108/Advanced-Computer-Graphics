@@ -3,4 +3,5 @@
   
 blue_weight, green_weight, red_weight 可以調整三個原色的權重  
 同一組source與target圖片的檔名前兩個字要取相同的字  
+可接受檔案格式為.jpg .jpeg .png .tiff  
 執行一次之後結果會生成在result資料夾  
